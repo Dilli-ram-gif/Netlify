@@ -1,5 +1,21 @@
-h1 {
+.heading {
   text-transform: uppercase;
   text-align: center;
   color: #bbbbbb;
 }
+a{
+  text-decoration: none;
+}
+.nav__bar{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  max-width: 1200px;
+  margin: auto;
+}
+.nav{
+  
+  color: #fff2;
+  font-size: 20px;
+} 
